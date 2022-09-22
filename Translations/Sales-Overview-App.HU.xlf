@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Sales-Overview-App.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 195230581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CCO Sales Overview Header</source>
+          <target>Eladási áttekintés</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 1291916053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No. Filter</source>
+          <target>Vevőszám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Customer No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 685195948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No. Filter</source>
+          <target>Dokumentum szám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Document No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 3205744027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-mail Filter</source>
+          <target>E-mail cím</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field E-mail Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 3567780488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Order No. Filter</source>
+          <target>Külső rendelési szám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field External Order No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 903593001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name Filter</source>
+          <target>Név</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Name Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 3009101675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No. Filter</source>
+          <target>Rendelési szám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Order No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 469115310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Tracking No. Filter</source>
+          <target>Csomagkövetési szám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Package Tracking No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 4029360229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No. Filter</source>
+          <target>Telefonszám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Phone No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 195230581 - Field 1973853953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No. Filter</source>
+          <target>Sorozatszám</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Serial No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CCO Sales Overview Line</source>
+          <target>Eladási áttekintés sorok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Dátum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Leírás</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 3310956332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>Kedvezmény %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Discount % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 1267560475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Amount</source>
+          <target>Kedvezmény mennyiség</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Discount Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 3536168541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Status</source>
+          <target>Dokumentum státusz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Document Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 3582421358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Sor mennyiség</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Line Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 158172202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Type</source>
+          <target>Sor típus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Név</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 1340654506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Type</source>
+          <target>Rendeléstípus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Order Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Mennyiség</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <target>Mértékegység</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 957461454 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Egységár</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Overview</source>
+          <target>Eladási áttekintés</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 1291916053 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. Filter field.</source>
+          <target>Megadja a Vevőszám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Customer No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 685195948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document No. Filter field.</source>
+          <target>Megadja a Dokumentum szám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Document No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 3205744027 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the E-mail Filter field.</source>
+          <target>Megadja az E-mail mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control E-mail Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 3567780488 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the External Order No. Filter field.</source>
+          <target>Megadja a Külső rendelési szám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control External Order No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 903593001 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name Filter field.</source>
+          <target>Megadja a Név mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Name Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 3009101675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order No. Filter field.</source>
+          <target>Megadja a Rendelési szám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Order No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 469115310 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Csomagkövetési szám Filter field.</source>
+          <target>Megadja a vevőszám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Package Tracking No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 4029360229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Phone No. Filter field.</source>
+          <target>Megadja a Telefonszám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Phone No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Control 1973853953 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Serial No. Filter field.</source>
+          <target>Megadja a Sorozatszám mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Serial No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Overview Subform</source>
+          <target>Sorok</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <target>Megadja a Dátum mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Megadja a Leírás mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 3310956332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount % field.</source>
+          <target>Megadja a Kedvezmény % mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Discount % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 1267560475 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount Amount field.</source>
+          <target>Megadja a Kedvezmény mennyiség mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Discount Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 3536168541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document Status field.</source>
+          <target>Megadja a Dokumentum státusz mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Document Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 3582421358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Amount field.</source>
+          <target>Megadja a Sor mennyiség mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Line Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 158172202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Type field.</source>
+          <target>Megadja a Sor típus mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Line Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target>Megadja a Név mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 1340654506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Type field.</source>
+          <target>Megadja a Rendeléstípus mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Order Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3063858898 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target>Megadja a Mennyiség mező értékét.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation. Target copied from source.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
