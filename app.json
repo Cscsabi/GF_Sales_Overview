@@ -1,0 +1,28 @@
+{
+    "id": "8ce0066f-e976-4430-b729-fe823f165b97",
+    "name": "Sales-Overview-App",
+    "publisher": "COSMO CONSULT",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "suppressWarnings": ["AA0215","AA0072"],
+    "dependencies": [],
+    "screenshots": [],
+    "application": "18.0.0.0",
+    "features": [ "TranslationFile" ],
+    "platform": "18.0.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 50200
+      }
+    ],
+    "contextSensitiveHelpUrl": "https://app.com/help/",
+    "showMyCode": true,
+    "runtime": "7.0",
+    "target": "Cloud"
+  }
