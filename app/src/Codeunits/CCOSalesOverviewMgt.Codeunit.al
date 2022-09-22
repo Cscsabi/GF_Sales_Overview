@@ -1,13 +1,13 @@
 codeunit 50000 "CCO Sales Overview Mgt."
 {
-    procedure SetOriginalOrderNoOnSalesQuote(var SalesHeader: Record "Sales Header")
+    procedure SetOriginalOrderNo(var SalesHeader: Record "Sales Header")
     begin
         SalesHeader."Original Order No." := SalesHeader."No.";
     end;
 
-    procedure SetOriginalOrderNosOnSalesQuoteLines(var SalesLine: Record "Sales Line")
+    procedure SetOriginalOrderNos(var SalesLine: Record "Sales Line")
     begin
-        SalesLine."Original Order No." := SalesLine."No.";
+        SalesLine."Original Order No." := SalesLine."Document No.";
         SalesLine."Orig. Order Line No." := SalesLine."Line No.";
     end;
 }
