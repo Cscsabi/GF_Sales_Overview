@@ -11,7 +11,6 @@ codeunit 50002 "CCO Sales-Post Handler"
     begin
 
     end;
-
     var
         SalesShipmentMgt: Codeunit "Sales Shipment Mgt";
 }

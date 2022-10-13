@@ -10,4 +10,9 @@ codeunit 50000 "CCO Sales Overview Mgt."
         SalesLine."Original Order No." := SalesLine."Document No.";
         SalesLine."Orig. Order Line No." := SalesLine."Line No.";
     end;
+
+    procedure SetOriginalOrderNoOnArchive(var SalesHeaderARchive: Record "Sales Header Archive")
+    begin
+        SalesHeaderARchive."Original Order No." := SalesHeaderARchive."No.";
+    end;
 }

@@ -3,56 +3,6 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Sales-Overview-App">
     <body>
       <group id="body">
-        <trans-unit id="Table 195230581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>CCO Sales Overview Header</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 1291916053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Customer No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Customer No. Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 685195948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Document No. Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 3205744027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>E-mail Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field E-mail Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 3567780488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>External Order No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field External Order No. Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 903593001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Name Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Name Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 3009101675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Order No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Order No. Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 469115310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Package Tracking No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Package Tracking No. Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 4029360229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Phone No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Phone No. Filter - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 195230581 - Field 1973853953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Serial No. Filter</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Header - Field Serial No. Filter - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Table 957461454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>CCO Sales Overview Line</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -118,6 +68,61 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Line - Field Unit Price - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2360744885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Overview Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 436027422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Cr. Memo Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Cr. Memo Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 577818309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Cr. Memo Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Cr. Memo Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 1192395785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 1948788855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Header Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Header Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 809936682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Invoice Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 2079186865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Invoice Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 2574427010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 2903552224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Line Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Line Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 3118382297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Shipment Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Shipment Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360744885 - Field 1114148978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Shipment Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CCO Sales Overview Setup - Field Sales Shipment Line - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3195585096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Overview</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -168,95 +173,130 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Serial No. Filter - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Sales Overview Subform</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Date field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Date - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Date - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Description field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Description - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Description - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 3310956332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 3310956332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Discount % field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Discount % - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Discount % - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 1267560475 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 1267560475 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Discount Amount field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Discount Amount - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Discount Amount - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 3536168541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 3536168541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Document Status field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Document Status - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Document Status - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 3582421358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 3582421358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Line Amount field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Line Amount - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Line Amount - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 158172202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 158172202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Line Type field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Line Type - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Line Type - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Name field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Name - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Name - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 1340654506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 1340654506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Order Type field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Order Type - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Order Type - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Quantity field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Quantity - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Quantity - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the SystemCreatedAt field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control SystemCreatedAt - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the SystemCreatedBy field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control SystemCreatedBy - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 1367528460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the SystemId field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control SystemId - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 2453272523 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the SystemModifiedAt field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control SystemModifiedAt - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 4085837753 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the SystemModifiedBy field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control SystemModifiedBy - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Unit of Measure Code field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Unit of Measure Code - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Unit of Measure Code - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3063858898 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3195585096 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Unit Price field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Subform - Control Unit Price - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Action 62906150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Action GetSetupPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3195585096 - Action 782762290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview - Action Search - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Overview Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 436027422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Cr. Memo Header field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Cr. Memo Header - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 577818309 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Cr. Memo Line field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Cr. Memo Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 1192395785 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Header field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Header - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 1948788855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Header Archive field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Header Archive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 809936682 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Invoice Header field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Invoice Header - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 2079186865 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Invoice Line field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Invoice Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 2574427010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Line field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 2903552224 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Line Archive field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Line Archive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 3118382297 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Shipment Header field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Shipment Header - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2360744885 - Control 1114148978 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales Shipment Line field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CCO Sales Overview Setup - Control Sales Shipment Line - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 3792295174 - Control 2391384838 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3595318222">
           <source>Specifies the value of the Orig. Order Line No.</source>
